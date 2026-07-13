@@ -107,7 +107,7 @@ CodeNeko/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeNeko.git
+git clone https://github.com/yhemant407/codeneko.git
 ```
 
 Install dependencies:
